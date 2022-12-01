@@ -1,4 +1,4 @@
-package weatherapp.observer;
+package weatherapp.hardcoded.observer;
 
 public class WeatherStation {
 
